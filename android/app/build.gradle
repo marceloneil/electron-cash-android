@@ -8,7 +8,7 @@ def EC = "../.."
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "org.electroncash.electroncash"
+        applicationId "org.electroncash.electroncash3"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
